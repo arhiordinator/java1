@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a860b3d8-47b9-41d1-a131-06d0883b5e98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cX4kD8WckAw1O3JwgYEEjzFwPC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\IdeaProjects\lesson3\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CareerTest">
+    <configuration name="CareerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.my.sait.at.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.geekbrains.my.sait.at" />
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.my.sait.at.CareerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.my.sait.at.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.geekbrains.my.sait.at" />
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.my.sait.at.EventsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.my.sait.at.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.geekbrains.my.sait.at" />
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.my.sait.at.SearchTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.SearchJavaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.my.sait.at.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.geekbrains.my.sait.at" />
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.my.sait.at.SearchTest" />
+      <option name="METHOD_NAME" value="SearchJavaTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopicsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.geekbrains.my.sait.at.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.geekbrains.my.sait.at" />
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.my.sait.at.TopicsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CareerTest" />
+        <item itemvalue="JUnit.SearchTest" />
+        <item itemvalue="JUnit.SearchTest.SearchJavaTest" />
+        <item itemvalue="JUnit.TopicsTest" />
+        <item itemvalue="JUnit.EventsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a860b3d8-47b9-41d1-a131-06d0883b5e98" name="Default Changelist" comment="" />
+      <created>1590661744831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590661744831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1214" y="361" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590782559565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1214" y="361" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590782559565" />
+    <state x="743" y="388" width="433" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590793931267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="388" width="433" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1590793931267" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1590671489585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590671489585" />
+    <state width="1336" height="237" key="GridCell.Tab.0.bottom" timestamp="1590802683929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1336" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590802683929" />
+    <state width="1336" height="237" key="GridCell.Tab.0.center" timestamp="1590802683929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1336" height="237" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590802683929" />
+    <state width="1336" height="237" key="GridCell.Tab.0.left" timestamp="1590802683928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1336" height="237" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590802683928" />
+    <state width="1336" height="237" key="GridCell.Tab.0.right" timestamp="1590802683929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1336" height="237" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590802683929" />
+    <state width="1336" height="237" key="GridCell.Tab.1.bottom" timestamp="1590802683929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1336" height="237" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590802683929" />
+    <state width="1336" height="237" key="GridCell.Tab.1.center" timestamp="1590802683929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1336" height="237" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590802683929" />
+    <state width="1336" height="237" key="GridCell.Tab.1.left" timestamp="1590802683929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1336" height="237" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590802683929" />
+    <state width="1336" height="237" key="GridCell.Tab.1.right" timestamp="1590802683929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1336" height="237" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590802683929" />
+  </component>
+</project>
